@@ -3,11 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>Structure Web Pages with HTML</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-    <script src="script.js"></script> 
     <div class="div1">
       <header>
         <h1> Felicia's Page </h1> 
